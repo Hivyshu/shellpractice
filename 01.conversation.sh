@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Ram:hi ravi"
-echo "ravi:hi ram!!"
-echo "ram: what do you do"
-echo "ravi: I do chicken"
+echo "ravi:hi ravi"
+echo "ram:hi ram!!"
+echo "ravi: what do you do"
+echo "ram: I do chicken"
